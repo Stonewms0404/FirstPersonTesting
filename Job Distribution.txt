@@ -1,0 +1,13 @@
+Stone:
+-Enemy base: Stats, collision reaction, hit function
+-Enemy creation: Cat, Bird, Duck, Squirrel
+-Enemy Behavior Trees: Cat, Bird
+-Enemy Nav Mesh: Ground, Sky
+-Level 1, Level 3
+-Player Base: Health, Move Speed, Death, Reporting Noise, 
+
+Matt:
+-3D Models
+-Bullet base
+-Weapons
+-Level 2, Level 4
