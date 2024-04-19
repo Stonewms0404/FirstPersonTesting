@@ -9,5 +9,6 @@ Stone:
 Matt:
 -3D Models
 -Bullet base
--Weapons
+-Cat projectile base
+-Weapons pickups
 -Level 2, Level 4
