@@ -8,8 +8,10 @@ Stone:
 -Music
 
 Matt:
--3D Models
+-3D Models (Made 3D models for the AK, DEagle, Sawed off, and Cat cannon but they were not used)
 -Bullet base
 -Cat projectile base
 -Weapons pickups
+-Crosshair
+-C4
 -Level 2, Level 4
