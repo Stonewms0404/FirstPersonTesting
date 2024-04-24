@@ -3,7 +3,7 @@ Stone:
 -Enemy creation: Cat, Bird, Duck, Squirrel
 -Enemy Behavior Trees: Cat, Bird
 -Enemy Nav Mesh: Ground, Sky
--Level 1, Level 3
+-Level 1, Level 2
 -Player Base: Health, Move Speed, Death, Reporting Noise
 -Music
 
@@ -14,4 +14,5 @@ Matt:
 -Weapons pickups
 -Crosshair
 -C4
--Level 2, Level 4
+-Landscape mat
+-Level 3, Level 4
