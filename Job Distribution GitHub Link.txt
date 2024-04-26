@@ -1,0 +1,22 @@
+Stone:
+-Enemy base: Stats, collision reaction, hit function
+-Enemy creation: Cat, Bird, Duck, Squirrel
+-Enemy Behavior Trees: Cat, Bird
+-Enemy Nav Mesh: Ground, Sky
+-Enemy projectile
+-Level 1, Level 2
+-Player Base: Health, Move Speed, Death, Reporting Noise
+-Music
+
+Matt:
+-3D Models (Made 3D models for the AK, DEagle, Sawed off, and Cat cannon but they were not used)
+-Bullet base
+-Cat projectile base
+-Weapons pickups: AK, DEagle, Sawed off, Cat cannon
+-Crosshair
+-C4
+-Interaction interface
+-Landscape mat
+-Level 3, Level 4
+
+https://github.com/Stonewms0404/FirstPersonTesting
